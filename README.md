@@ -16,3 +16,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prey01&show_icons=true&theme=dark&locale=en" alt="prey01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prey01&" alt="prey01" /></p>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=uwyht8ght2lk1b1eyt56aacs8&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
